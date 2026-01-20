@@ -1,0 +1,12 @@
+{
+    "omnisharp.useModernNet": true,
+    "dotnet.defaultSolution": "FishShopPOS.sln",
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true
+    },
+    "search.exclude": {
+        "**/bin": true,
+        "**/obj": true
+    }
+}

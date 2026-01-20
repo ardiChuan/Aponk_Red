@@ -1,0 +1,16 @@
+# Build output
+bin/
+obj/
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Android SDK generated files
+*.apk
+*.aab
+*.ap_
